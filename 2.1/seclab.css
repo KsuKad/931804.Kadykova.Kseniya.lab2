@@ -1,0 +1,25 @@
+#headerr{
+    height: 70px;
+    background-color: #EAEAEA;
+    font-size: 30px;
+    padding-top: 6px;
+    padding-left: 6px;
+}
+
+#footer{
+    clear: left;
+    width: 100%;
+    background: black;
+    text-align: center;
+    padding: 4px 0;
+    }
+    #left{
+        padding: 3 5 10 5;
+        float: left;
+        width: 180px;
+        background: #C8FC98;  
+    }
+    #content{
+
+        background: rgb(255, 255, 255);
+    }
